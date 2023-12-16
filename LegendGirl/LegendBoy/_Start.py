@@ -24,7 +24,7 @@ async def _start(Legend: Client, message: Message):
     if START_MESSAGE:
         START_MESSAGE = START_MESSAGE
     else:
-        START_MESSAGE = f"Hey👋 {message.from_user.mention}❤️\n✥ I am {my_mention}\n\n❖═══❃≛⃝❈•✵•≛⃝❈❃═══❖\n\n✥ **__Pyrogram Version__** = {py_version}\n✥ **__Python Version__** = {platform.python_version()}\n✥ **__BotSpam Version__** = {version}\n\n❖═══❃≛⃝❈•✵•≛⃝❈❃═══❖"
+        START_MESSAGE = f"Hᴇʏ! 🦋 {message.from_user.mention}❤️\n✥ I Aᴍ {my_mention}\n\n❖═══❃≛⃝❈•✵•≛⃝❈❃═══❖\n\n✥ **Pʏʀᴏɢʀᴀᴍ Vᴇʀsɪᴏɴ** = {py_version}\n✥ **Pʏᴛʜᴏɴ Vᴇʀsɪᴏɴ** = {platform.python_version()}\n✥ **BᴏᴛSᴘᴀᴍ Vᴇʀsɪᴏɴ** = {version}\n\n❖═══❃≛⃝❈•✵•≛⃝❈❃═══❖"
     if ".jpg" in START_PIC or ".png" in START_PIC:
         for i in range(1, 26):
             lol = globals()[f"Client{i}"]
