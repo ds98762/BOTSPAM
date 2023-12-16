@@ -3,7 +3,7 @@
 [![LEGENDBOTSPAM](https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
 
 <h1 align="center">
-<b> 『ẞø†Spâm』 </b>
+<b> 『DhimanBotSpam』 </b>
 </h1>
 
 <h6 align="center">
