@@ -324,9 +324,9 @@ async def Start_BotSpam():
         if var is not None:
             await start_bot(var)
     print("➖➖➖➖➖➖➖➖➖➖➖➖")
-    print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO] : Group Username {group_username}")
-    print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO] : Version - {platform.python_version()}")
-    print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO]: SpamBot Version - {version}")
-    print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO]: Pyrogram Version - {py_version}")
+    print(f"🔥 𝐃𝐇𝐈𝐌𝐀𝐍 𝐒𝐏𝐀𝐌 🔥[INFO] : Group Username {group_username}")
+    print(f"🔥 𝐃𝐇𝐈𝐌𝐀𝐍 𝐒𝐏𝐀𝐌 🔥[INFO] : Version - {platform.python_version()}")
+    print(f"🔥 𝐃𝐇𝐈𝐌𝐀𝐍 𝐒𝐏𝐀𝐌 🔥[INFO]: SpamBot Version - {version}")
+    print(f"🔥 𝐃𝐇𝐈𝐌𝐀𝐍 𝐒𝐏𝐀𝐌 🔥[INFO]: Pyrogram Version - {py_version}")
     print("➖➖➖➖➖➖➖➖➖➖➖➖")
     await idle()
