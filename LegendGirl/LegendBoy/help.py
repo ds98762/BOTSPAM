@@ -7,12 +7,12 @@ from LegendGirl.Config import *
 if HELP_MSG:
     HELP_MSG = HELP_MSG
 else:
-    HELP_MSG = "[Spam Bot](https://t.me/TeamLegendXD) Help Menu"
+    HELP_MSG = "[Dʜɪᴍᴀɴ Sᴘᴀᴍ](https://t.me/Abt_mei) Help Menu"
 
 
 @Client.on_message(filters.command(["help"], prefixes=HANDLER))
 async def _help(Legend: Client, message: Message):
-    HELP_MSG = "Help Menu Powered By @TeamLegendXD"
+    HELP_MSG = "Hᴇʟᴘ Mᴇɴᴜ Pᴏᴡᴇʀᴇᴅ Bʏ @i_dxlvir"
     if ".jpg" in HELP_PIC or ".png" in HELP_PIC:
         await Legend.send_photo(
             message.chat.id,
